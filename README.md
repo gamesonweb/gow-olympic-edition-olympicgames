@@ -1,6 +1,5 @@
-# gow-olympic-edition-olympicgames
-gow-olympic-edition-olympicgames created by GitHub Classroom
 # GamesOnWeb
+Thanh Ngo, Manel Mokrani et Bousso Seye.
 Olympic Games Challenge 2024 Bienvenue sur le dépôt officiel du "Olympic Games Challenge 2024" ! 
 Ce projet vise à recréer l'excitation et le défi des Jeux Olympiques à travers trois épreuves: la course, le ski, et le tir à l'arc.
 À propos du projet "Olympic Games Challenge 2024" est un projet conçu pour offrir une expérience des Jeux Olympiques.
